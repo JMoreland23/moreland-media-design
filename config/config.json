@@ -1,0 +1,38 @@
+{
+  "site": {
+    "title": "Moreland Media Design Creative Ad Agency",
+    "base_url": "/",
+    "favicon": "/images/favicon.svg",
+    "logo": "/images/logo.svg",
+    "logo_width": "160",
+    "logo_height": "50",
+    "logo_text": "Moreland Media Design"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "blogs",
+    "services_folder": "services",
+    "client_folder" : "clients"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "We are a creative Ad Agency that specializes in Web Development, Reputation Management, Online Business Listings and More.",
+    "copyright": "Designed and Developed By Moreland Media Design"
+  },
+
+  "metadata": {
+    "meta_author": "Moreland Media Design",
+    "meta_image": "",
+    "meta_description": "Moreland Media Design Creative Ad Agency"
+  }
+}

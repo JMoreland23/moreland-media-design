@@ -1,0 +1,104 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blogs"
+    },
+    {
+      "name": "Clients",
+      "url": "/clients"
+    },
+    {
+      "name": "Services",
+      "url": "/services",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Web Development",
+          "url": "/services/web-development"
+        },
+        {
+          "name": "Reputation Management",
+          "url": "/services/reputation-management"
+        },
+        {
+          "name": "Social Media",
+          "url": "/services/social-media-management"
+        },
+        {
+          "name": "Custom Photography",
+          "url": "/services/custom-photography"
+        },
+        {
+          "name": "Content Creation",
+          "url": "/services/content-creation"
+        }
+      ]
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        },
+        {
+          "text": "Quick Start",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        {
+          "text": "Features",
+          "url": "#"
+        },
+        {
+          "text": "Platform",
+          "url": "#"
+        },
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
