@@ -2,6 +2,7 @@ import { markdownify } from "@lib/utils/textConverter";
 import Image from "next/image";
 
 const HomeFeatures = ({ feature }) => {
+
   return (
     <section className="section bg-theme-light">
       <div className="container">

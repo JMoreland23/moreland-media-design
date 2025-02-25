@@ -57,29 +57,37 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Services",
+          "url": "/services"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "Clients",
+          "url": "/clients"
+        },
+        {
+          "text": "Blogs",
+          "url": "/blogs"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Services",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
+          "text": "Web Development",
+          "url": "/services/web-development"
         },
         {
-          "text": "Platform",
-          "url": "#"
+          "text": "Custom Photography",
+          "url": "/services/custom-photography"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Reputation Management",
+          "url": "/services/reputation-management"
+        },
+        {
+          "text": "Social Media",
+          "url": "/services/social-media-management"
         }
       ]
     },
