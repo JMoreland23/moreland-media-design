@@ -1,6 +1,9 @@
+"use client"
+
 import { markdownify } from "@lib/utils/textConverter";
-import Image from "next/image";
+import Lottie from "lottie-react";
 import Link from "next/link";
+import animationData from "../../public/images/banner.json"; // Move your Lottie file to /public folder
 
 const HomeBanner = ({ banner }) => {
   return (
@@ -27,15 +30,9 @@ const HomeBanner = ({ banner }) => {
               )}
             </div>
           </div>
-          {/* Right Column: Image */}
+          {/* Right Column: Lottie Animation */}
           <div className="w-full md:w-1/2 mt-8 md:mt-0">
-            <img
-              className="mx-auto md:ml-auto"
-              src={banner.image}
-              width={750}
-              height={390}
-              alt="banner image"
-            />
+            <Lottie animationData={animationData} loop={true} className="w-[400px] h-[400px] mx-auto" />
           </div>
         </div>
       </div>
