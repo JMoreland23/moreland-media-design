@@ -32,7 +32,7 @@ const HomeBanner = ({ banner }) => {
           </div>
           {/* Right Column: Lottie Animation */}
           <div className="w-full md:w-1/2 mt-8 md:mt-0">
-            <Lottie animationData={animationData} loop={true} className="w-[400px] h-[400px] mx-auto" />
+            <Lottie animationData={animationData} loop={true} className="w-[450px] h-[450px] mx-auto" />
           </div>
         </div>
       </div>
