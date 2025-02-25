@@ -1,9 +1,10 @@
 ---
 banner:
-  title: Orlando’s Leading Digital Marketing & Web Design Agency
-  content: Welcome to Moreland Media Design, your trusted digital marketing and web design partner in Orlando, Lake Mary, Sanford, Winter Park, Altamonte Springs, and surrounding areas. We help local businesses dominate online with expert Web Design, Local SEO, Reputation Management, Google Business Optimization, Social Media Marketing, and Custom Photography.<br/><br/>Whether you own a limo service, landscaping company, house cleaning business, or any other service industry, our data-driven strategies will increase visibility and attract more leads.
+  title: Orlando Web Design and Online Presence Agency
+  content: Let us be the Building Blocks to your business
   image: /images/banner-art.svg
   button:
+    enable: true 
     label: "Contact Us"
     link: "/contact"
 

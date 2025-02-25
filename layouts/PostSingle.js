@@ -22,10 +22,10 @@ const PostSingle = ({ frontmatter, content }) => {
                   alt={title}
                   priority={true}
                   layout="responsive"
-                  className="rounded-lg drop-shadow-md transition-all duration-500"
+                  className="rounded-lg drop-shadow-lg transition-all duration-500"
                 />
               )}
-              {markdownify(title, "h1", "h2 mb-6 mt-6 text-left drop-shadow-lg ")}
+              {markdownify(title, "h1", "h2 mb-6 mt-6 text-left ")}
               <div className="content mb-16 text-left">
                 <MDXContent content={content} />
               </div>
