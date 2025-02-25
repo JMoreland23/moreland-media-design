@@ -40,6 +40,7 @@ const Home = async () => {
       {/* services */}
       <Services services={wpServices} />
 
+      {/* industries */}
       <IndustriesList industries={industries} />
 
       {/* workflow */}
