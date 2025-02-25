@@ -1,7 +1,7 @@
 ---
 title: "Coastal Green Landscaping"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-4.jpg"
+image: "/images/coastal-green-landscaping.webp"
 date: 2022-08-04T05:00:00Z
 draft: false
 ---
@@ -18,6 +18,8 @@ Introducing **Coastal Green Landscaping**, a premier landscaping company dedicat
 
 ## Project Overview
 Coastal Green Landscaping approached our agency with the goal of enhancing their online presence to attract a broader clientele. They sought a modern, user-friendly website that would effectively showcase their diverse services and portfolio, while also improving search engine visibility.
+
+![service](/images/coastal-green-landscaping-2.webp "service")
 
 ## Our Approach
 - **Website Redesign**: We developed a responsive and visually appealing website that highlights Coastal Green Landscaping's expertise and projects. The design emphasizes easy navigation and a seamless user experience.

@@ -1,7 +1,7 @@
 ---
 title: "Dumpster Rentals San Diego"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-1.jpg"
+image: "/images/dumpster-rentals-san-diego.webp"
 date: 2022-04-04T05:00:00Z
 draft: false
 ---
@@ -17,6 +17,7 @@ Dumpster Rentals San Diego approached our agency with the goal of establishing a
 - **Search Engine Optimization (SEO)**: Implement strategies to enhance online visibility and attract organic traffic.
 
 ---
+![service](/images/dumpster-rentals-san-diego-2.webp "service")
 
 ## Our Approach
 
@@ -35,6 +36,7 @@ Dumpster Rentals San Diego approached our agency with the goal of establishing a
 - **Keyword Research**: Identified relevant search terms to target the intended audience effectively.
 - **On-Page SEO**: Optimized meta tags, headings, and content for improved search engine rankings.
 - **Local SEO**: Emphasized service areas to capture local search traffic, enhancing visibility within San Diego County.
+
 
 ---
 

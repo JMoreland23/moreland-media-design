@@ -26,7 +26,6 @@ const PostSingle = ({ frontmatter, content }) => {
                 />
               )}
               {markdownify(title, "h1", "h2 mb-6 mt-6 text-left drop-shadow-lg ")}
-
               <div className="content mb-16 text-left">
                 <MDXContent content={content} />
               </div>
