@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Web Design & Development",
+    "img": "/assets/imgs/serv-icons/3.png",
+    "desc": "We create visually stunning and user-friendly websites that leave a lasting impression. Our team of skilled designers and developers crafts custom websites tailored to your unique brand and business objectives.",
+    "link": "/services/web-development"
+  },
+  {
+    "title": "SEO & Digital Marketing",
+    "img": "/assets/imgs/serv-icons/4.png",
+    "desc": "We help you dominate search engine results and attract your target audience with our data-driven SEO and digital marketing strategies. Our experts optimize your online presence to drive organic traffic and boost your brand visibility.",
+    "link": "/services/loca-seo"
+  },
+  {
+    "title": "Social Media Management",
+    "img": "/assets/imgs/serv-icons/5.png",
+    "desc": "We manage your social media presence, crafting engaging content that resonates with your audience and drives meaningful interactions. Our goal is to build a strong online community and foster brand loyalty.",
+    "link": "/services/social-media-management"
+  },
+  {
+    "title": "Branding & Creative Services",
+    "img": "/assets/imgs/serv-icons/5.png",
+    "desc": "We help you establish a strong brand identity that sets you apart from the competition. Our creative team develops compelling visuals, messaging, and brand experiences that leave a lasting impact.",
+    "link": "/services/custom-photography"
+  }
+]
