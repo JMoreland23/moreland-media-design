@@ -3,6 +3,7 @@ import React from 'react';
 import data from '@/data/portfolios/works1';
 import { Navigation, Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import Image from 'next/image';
 
 function Portfolio() {
   const swiperOptions = {
@@ -70,7 +71,7 @@ function Portfolio() {
                     </a>
                   </div>
                   <div className="img">
-                    <img src={item.img} alt="" className="radius-15" />
+                    <Image src={item.img} alt="" className="radius-15" width={350} height={350} />
                   </div>
                 </div>
               </SwiperSlide>

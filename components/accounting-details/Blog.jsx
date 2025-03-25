@@ -1,5 +1,6 @@
 import React from 'react';
 import Sidebar from '../industries-sidebar/Sidebar';
+import Image from 'next/image';
 
 function Blog() {
   return (
@@ -79,12 +80,12 @@ function Blog() {
                   <div className="row">
                     <div className="col-sm-6">
                       <div className="iner-img sm-mb30">
-                        <img src="/assets/imgs/blog/blog1.jpg" alt="" />
+                        <Image src="/assets/imgs/blog/blog1.jpg" alt="" width={1400} height={930} />
                       </div>
                     </div>
                     <div className="col-sm-6">
                       <div className="iner-img">
-                        <img src="/assets/imgs/blog/blog2.jpg" alt="" />
+                        <Image src="/assets/imgs/blog/blog2.jpg" alt="" width={1400} height={930} />
                       </div>
                     </div>
                   </div>
@@ -230,10 +231,12 @@ function Blog() {
                 <div className="flex">
                   <div className="author-img mr-30">
                     <div className="img">
-                      <img
+                      <Image
                         src="/assets/imgs/blog/author.png"
                         alt=""
                         className="circle-img"
+                        width={80}
+                        height={80}
                       />
                     </div>
                   </div>
