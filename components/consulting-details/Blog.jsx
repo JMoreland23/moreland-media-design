@@ -50,7 +50,7 @@ function Blog() {
                   </div>
                   <div className="text mt-20">
                     <p>
-                      Target keywords such as 'consultant (your city)', or 'business consultant near me'.
+                      Target keywords such as &aposconsultant (your city)&apos, or &aposbusiness consultant near me&apos.
                     </p>
                     <a
                         href="/services/local-seo"

@@ -37,7 +37,7 @@ function Intro2() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    We don't do cookie-cutter websites. Our team of experienced developers crafts bespoke solutions tailored to your unique business needs. We prioritize clean code, scalable architecture, and seamless functionality.
+                    We don&apost do cookie-cutter websites. Our team of experienced developers crafts bespoke solutions tailored to your unique business needs. We prioritize clean code, scalable architecture, and seamless functionality.
                     </p>
                   </div>
                 </div>
@@ -49,7 +49,7 @@ function Intro2() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    In today's digital landscape, mobile is paramount. We build responsive websites that deliver an exceptional user experience across all devices, ensuring your site looks and performs flawlessly on smartphones, tablets, and desktops.
+                    In today&aposs digital landscape, mobile is paramount. We build responsive websites that deliver an exceptional user experience across all devices, ensuring your site looks and performs flawlessly on smartphones, tablets, and desktops.
                     </p>
                   </div>
                 </div>
@@ -72,7 +72,7 @@ function Intro2() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    We believe in open and honest communication throughout the development process. You'll have direct access to our team, regular progress updates, and a collaborative approach that ensures your vision is brought to life.
+                    We believe in open and honest communication throughout the development process. You&aposll have direct access to our team, regular progress updates, and a collaborative approach that ensures your vision is brought to life.
                     </p>
                   </div>
                 </div>
@@ -83,7 +83,7 @@ function Intro2() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    Our relationship doesn't end when your website launches. We offer comprehensive support and maintenance packages to keep your site running smoothly, secure, and up-to-date with the latest technologies.
+                    Our relationship doesn&apost end when your website launches. We offer comprehensive support and maintenance packages to keep your site running smoothly, secure, and up-to-date with the latest technologies.
                     </p>
                   </div>
                 </div>
@@ -94,7 +94,7 @@ function Intro2() {
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                    We're not just about building websites; we're about driving results. We work closely with you to understand your business goals and develop solutions that deliver measurable outcomes, whether it's increased traffic, leads, or conversions.
+                    We&aposre not just about building websites; we&aposre about driving results. We work closely with you to understand your business goals and develop solutions that deliver measurable outcomes, whether it&aposs increased traffic, leads, or conversions.
                     </p>
                   </div>
                 </div>

@@ -1,4 +1,5 @@
 'use client';
+import Image from 'next/image';
 import React, { useEffect } from 'react';
 
 function Portfolio() {
@@ -91,7 +92,7 @@ function Portfolio() {
                       We’re a full stack firm that can help you from strategy to
                       launch, and anywhere in between.
                     </p>
-                    <a href="/project-details" className="underline mt-15">
+                    <a href="/portfolio/coastal-green-landscaping" className="underline mt-15">
                       <span className="text main-color sub-title">
                         View Details <i className="ti-arrow-top-right"></i>
                       </span>
@@ -101,7 +102,7 @@ function Portfolio() {
               </div>
               <div className="col-lg-7">
                 <div className="img">
-                  <img src="/assets/imgs/works/1/1.jpg" alt="" />
+                  <Image src="/assets/imgs/works/1/1.jpg" alt="" width={480} height={312.25} />
                 </div>
               </div>
             </div>

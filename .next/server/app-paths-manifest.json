@@ -1,8 +1,9 @@
 {
   "/not-found": "app/not-found.js",
-  "/services/online-business-listings/page": "app/services/online-business-listings/page.js",
-  "/services/web-development/page": "app/services/web-development/page.js",
-  "/services/page": "app/services/page.js",
   "/page": "app/page.js",
-  "/industries/accounting/page": "app/industries/accounting/page.js"
+  "/portfolio/coastal-green-landscaping/page": "app/portfolio/coastal-green-landscaping/page.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/services/reputation-management/page": "app/services/reputation-management/page.js",
+  "/industries/medical/page": "app/industries/medical/page.js",
+  "/industries/consulting/page": "app/industries/consulting/page.js"
 }

@@ -12,7 +12,7 @@ function Blog() {
                 <article>
                   <div className="text">
                     <p>
-                      <span className="spec-letter">I</span> n today's digital age, a strong online presence is essential for dental practices to attract and retain patients. Moreland Media Design offers specialized digital marketing services to help dentists build their brand, generate leads, and enhance patient trust.
+                      <span className="spec-letter">I</span> n today&aposs digital age, a strong online presence is essential for dental practices to attract and retain patients. Moreland Media Design offers specialized digital marketing services to help dentists build their brand, generate leads, and enhance patient trust.
                     </p>
                   </div>
                   <div className="title mt-30">
@@ -50,7 +50,7 @@ function Blog() {
                   </div>
                   <div className="text mt-20">
                     <p>
-                      Target keywords such as 'dentist (your city)', 'dental implants near me', or 'emergency dentist'.
+                      Target keywords such as &aposdentist (your city)&apos, &aposdental implants near me&apos, or &aposemergency dentist&apos.
                     </p>
                     <a
                         href="/services/local-seo"

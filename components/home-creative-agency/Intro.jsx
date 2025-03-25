@@ -1,5 +1,6 @@
 'use client';
 import isInView from '@/common/isInView';
+import Image from 'next/image';
 import React, { useEffect } from 'react';
 
 function Intro() {
@@ -50,13 +51,13 @@ function Intro() {
           <div className="col-lg-6">
             <div className="imgs">
               <div className="img1">
-                <img src="/assets/imgs/intro/2.jpg" alt="" />
+                <Image src="/assets/imgs/intro/2.jpg" alt="" width={350} height={350} />
               </div>
               <div className="img2">
-                <img src="/assets/imgs/intro/03.jpg" alt="" />
+                <Image src="/assets/imgs/intro/3.jpg" alt="" width={350} height={350} />
               </div>
               <div className="img3">
-                <img src="/assets/imgs/intro/04.jpg" alt="" />
+                <Image src="/assets/imgs/intro/4.jpg" alt="" width={350} height={350} />
               </div>
             </div>
           </div>
